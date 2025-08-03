@@ -3,77 +3,24 @@ date = "2016-11-05T21:05:33+05:30"
 title = "About"
 +++
 
-A minimal and responsive Hugo theme inspired by the system console, crafted for optimal performance with an average page load time of under one second.
+Hi, it’s Greg.  
 
-Theme is based on a modern and minimal [Terminal CSS](https://terminalcss.xyz/) framework. 
+This site is completely personal—a place where I keep the things I enjoy exploring and writing about.  
 
-![Console](https://github.com/mrmierzejewski/hugo-theme-console/blob/master/images/preview.png?raw=true)
+I like to write about:  
 
-## Live demo
+- **Food** – Every meal is its own story, whether it’s something I’ve cooked or discovered.  
+- **Travel** – Notes, impressions, and details from places I’ve been.  
+- **Films** – What I’ve watched, what stayed with me, and why.  
+- **Books** – Reading that sparks ideas or just keeps me curious.  
+- **Technology** – Tools, experiments, and things I build or tinker with.  
 
-* [https://mrmierzejewski.com/hugo-theme-console/](https://mrmierzejewski.com/hugo-theme-console/)
+It’s all collected here, in one simple space that I can keep adding to over time.  
 
-## Installation
+I built this site with [Hugo](https://gohugo.io/) using the [Console theme](https://github.com/mrmierzejewski/hugo-theme-console), because I like its clean, console-inspired design—it keeps things direct and uncluttered.  
 
-From the root of your Hugo site, clone the theme into ```themes/hugo-theme-console``` by running :
+---
 
-```
-$ git submodule add https://github.com/mrmierzejewski/hugo-theme-console.git hugo-theme-console
-```
-    
-See the [Hugo documentation](https://gohugo.io/hugo-modules/theme-components/) for more information.
+Copyright © 2025 Greg  
 
-## Configuration
-
-Set theme parameter in your config file:
-
-```
-theme = "hugo-theme-console"
-```
-
-## Quick start
-
-After installation, take a look in the `exampleSite` folder at. This directory contains an example config file and the content for the demo.
-
-```
-  exampleSite
-  ├── config.toml
-  ├── content
-  │   ├── about
-  │   │   └── index.md
-  │   └── photos
-  │   │   └── arizona-us
-  │   │       ├── arizona-us.jpg
-  │   │       └── index.md
-  │   └── posts
-  │       └── introduction
-  │           └── index.md
-  ├── layouts
-  │
-  └── static
-```
-
-Copy at least the `config.toml` in the root directory of your website. Overwrite the existing config file if necessary.
-
-Hugo includes a development server, so you can view your changes as you go -
-very handy. Spin it up with the following command:
-
-```
-hugo serve
-```
-
-Now you can go to [http://localhost:1313](http://localhost:1313) and the theme should be visible.
-
-## Example Site
-
-To run the example site, please type the following command.
-
-```
-make hugo-server
-```
-
-## License
-
-Copyright © 2024 [Marcin Mierzejewski](https://mrmierzejewski.com/)
-
-The theme is released under the MIT License. Check the [original theme license](https://github.com/panr/hugo-theme-terminal/blob/master/LICENSE.md) for additional licensing information.
+The theme is released under the MIT License. Check the [original theme license](https://github.com/mrmierzejewski/hugo-theme-console) for additional licensing information.
