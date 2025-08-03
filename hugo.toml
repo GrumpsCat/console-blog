@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseURL = "https://gregho.vercel.app/"
 title = "console-demo"
 theme = "hugo-theme-console"
 languageCode = "en-us"
